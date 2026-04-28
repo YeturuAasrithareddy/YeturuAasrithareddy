@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF0000&size=22&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;AI+%7C+Computer+Vision+%7C+Healthcare+AI;Open+to+Collaborations!" alt="Typing SVG" />
-</p>
-
 # Hi, I'm Aasritha Reddy 👋
 
 🎓 B.Tech in Artificial Intelligence & Data Science  
@@ -39,4 +35,6 @@
 
 ---
 
-🟡 Open to collaborating on AI & ML Projects!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF0000&size=22&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;AI+%7C+Computer+Vision+%7C+Healthcare+AI;Open+to+Collaborations!" alt="Typing SVG" />
+</p>
